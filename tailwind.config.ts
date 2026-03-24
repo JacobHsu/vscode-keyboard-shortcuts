@@ -19,6 +19,10 @@ export default {
         ring: "hsl(var(--ring))",
         background: "hsl(var(--background))",
         foreground: "hsl(var(--foreground))",
+        heading: "hsl(var(--heading))",
+        "row-alt": "hsl(var(--row-alt))",
+        "row-hover": "hsl(var(--row-hover))",
+        divider: "hsl(var(--divider))",
         primary: {
           DEFAULT: "hsl(var(--primary))",
           foreground: "hsl(var(--primary-foreground))",
