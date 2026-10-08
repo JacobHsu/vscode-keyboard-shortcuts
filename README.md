@@ -94,6 +94,10 @@ src/
 - **邊距**：最小（Minimum）
 - **縮放**：依版面自動調整（Fit to page）
 
+## 常用
+
+`Ctrl+Shift+V` 開啟 Markdown 預覽
+
 ## 貢獻
 
 歡迎提交 Pull Request。請遵循以下原則：
